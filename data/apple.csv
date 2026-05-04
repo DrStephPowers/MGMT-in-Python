@@ -1,0 +1,321 @@
+id,variety,weight_g,brix_sugar,firmness_N,diameter_mm,defect
+1,Fuji,113.8,14.38,61.7,73.7,Scab
+2,Fuji,208.2,15.43,58.3,78.8,Bruising
+3,Fuji,198.5,15.63,63.5,79.5,Rot
+4,Fuji,163.1,14.74,81.5,75.6,Stem puncture
+5,Fuji,187.3,13.52,56.8,69.5,Bruising
+6,Fuji,142.0,11.19,62.2,89.0,Scab
+7,Fuji,224.5,13.8,43.9,75.2,Russeting
+8,Fuji,162.4,15.1,59.8,87.7,No defect
+9,Fuji,172.5,11.5,65.3,74.4,Russeting
+10,Fuji,170.3,13.76,67.0,82.3,Bruising
+11,Fuji,193.1,13.2,53.2,69.9,Bruising
+12,Fuji,164.1,16.03,48.8,69.5,Bruising
+13,Fuji,206.0,11.2,47.4,68.3,Russeting
+14,Fuji,191.5,15.45,64.3,80.6,Stem puncture
+15,Fuji,206.9,13.55,48.0,68.2,No defect
+16,Fuji,213.5,12.79,60.0,67.3,No defect
+17,Fuji,198.8,14.42,49.8,70.2,Bruising
+18,Fuji,164.3,13.48,67.0,71.0,No defect
+19,Fuji,159.6,16.74,61.3,75.4,Scab
+20,Fuji,207.4,15.66,49.9,79.2,No defect
+21,Fuji,200.8,14.77,68.9,78.0,Scab
+22,Fuji,194.3,15.13,57.7,82.7,Scab
+23,Fuji,170.2,13.85,66.6,77.6,Scab
+24,Fuji,175.0,14.93,52.9,69.4,No defect
+25,Fuji,177.1,15.62,71.4,74.4,Lenticel breakdown
+26,Fuji,204.4,13.26,51.7,79.7,Stem puncture
+27,Fuji,177.8,14.03,48.2,58.9,Scab
+28,Fuji,180.3,15.37,48.0,77.9,No defect
+29,Fuji,164.2,12.17,51.7,79.0,Stem puncture
+30,Fuji,196.6,16.48,68.2,73.8,Bruising
+31,Fuji,185.7,13.61,74.6,80.1,Russeting
+32,Fuji,191.2,16.56,58.0,74.1,Russeting
+33,Fuji,157.7,13.63,61.0,74.5,No defect
+34,Fuji,186.8,14.62,63.7,70.9,No defect
+35,Fuji,169.6,16.74,75.5,71.7,Stem puncture
+36,Fuji,205.4,13.58,66.9,83.0,No defect
+37,Fuji,189.9,13.17,62.9,72.0,Scab
+38,Fuji,198.0,14.15,45.6,76.2,Bruising
+39,Fuji,170.0,13.26,46.4,71.3,Russeting
+40,Fuji,194.2,12.39,65.5,75.1,Lenticel breakdown
+41,Fuji,177.3,16.57,55.3,74.6,Bruising
+42,Fuji,198.5,13.02,58.0,74.3,Bruising
+43,Fuji,164.9,14.83,54.7,79.7,Stem puncture
+44,Fuji,200.1,14.98,52.5,65.9,Stem puncture
+45,Fuji,191.9,16.84,51.3,76.4,Scab
+46,Fuji,183.4,15.21,41.2,81.3,Scab
+47,Fuji,172.3,14.45,47.3,86.1,No defect
+48,Fuji,185.2,17.24,62.8,67.4,Rot
+49,Fuji,162.3,15.65,58.2,71.9,No defect
+50,Fuji,139.6,12.45,69.5,75.1,Stem puncture
+51,Fuji,180.0,17.34,58.3,76.8,Scab
+52,Fuji,191.7,14.29,59.1,76.1,Lenticel breakdown
+53,Fuji,187.7,15.77,47.8,82.2,Bruising
+54,Fuji,185.8,15.8,58.1,75.4,Bruising
+55,Fuji,154.1,13.26,57.5,67.9,Stem puncture
+56,Fuji,176.8,12.61,66.5,69.4,Stem puncture
+57,Fuji,208.1,13.75,68.0,81.6,Bruising
+58,Fuji,154.3,15.72,65.5,65.5,Stem puncture
+59,Fuji,184.3,16.27,61.2,76.0,Scab
+60,Fuji,165.3,12.31,64.4,83.4,Russeting
+61,Fuji,173.0,11.9,57.8,75.2,Scab
+62,Fuji,191.8,13.17,46.3,69.3,No defect
+63,Fuji,192.7,13.92,60.3,81.8,Russeting
+64,Fuji,214.4,14.73,61.5,63.9,Bruising
+65,Fuji,174.5,15.63,70.9,76.9,Bruising
+66,Fuji,169.5,15.03,53.7,73.7,Bruising
+67,Fuji,200.1,15.58,51.2,74.8,Bruising
+68,Fuji,158.7,15.65,47.0,71.5,Russeting
+69,Fuji,197.9,15.19,59.3,73.2,No defect
+70,Fuji,163.3,16.81,50.0,71.8,Stem puncture
+71,Fuji,171.6,18.3,50.4,70.6,No defect
+72,Fuji,209.8,13.97,73.8,74.7,No defect
+73,Fuji,180.2,12.4,52.2,80.5,Stem puncture
+74,Fuji,179.5,14.43,69.6,83.6,No defect
+75,Fuji,152.2,15.56,55.5,73.8,No defect
+76,Fuji,222.6,19.53,59.8,78.0,No defect
+77,Fuji,210.6,14.29,62.1,76.1,Lenticel breakdown
+78,Fuji,148.6,13.05,77.2,66.4,No defect
+79,Fuji,197.2,13.12,67.6,72.7,No defect
+80,Fuji,178.1,13.87,66.1,84.8,Russeting
+81,Fuji,159.4,12.67,56.2,63.2,No defect
+82,Fuji,175.2,12.89,52.3,67.0,Rot
+83,Fuji,206.2,13.98,50.2,69.5,No defect
+84,Fuji,173.2,15.26,46.7,72.0,No defect
+85,Fuji,199.7,12.36,46.3,78.8,Scab
+86,Fuji,163.2,14.73,56.0,64.9,Scab
+87,Fuji,195.4,12.99,61.6,73.9,Bruising
+88,Fuji,169.4,14.73,56.0,83.2,Scab
+89,Fuji,175.4,15.55,63.4,68.7,Russeting
+90,Fuji,187.5,12.82,53.8,86.4,Bruising
+91,Fuji,174.7,16.73,71.9,78.6,Rot
+92,Fuji,204.3,15.11,58.5,81.7,Bruising
+93,Fuji,195.4,14.15,54.0,72.4,Russeting
+94,Fuji,194.1,15.2,71.7,76.0,Lenticel breakdown
+95,Fuji,208.6,12.65,60.8,66.6,No defect
+96,Fuji,222.2,16.96,59.0,66.2,No defect
+97,Fuji,172.7,15.15,35.5,66.9,Bruising
+98,Fuji,186.3,11.16,61.4,82.0,No defect
+99,Fuji,185.3,15.73,68.4,70.3,Bruising
+100,Fuji,173.0,16.38,71.3,78.8,No defect
+101,Gala,184.9,15.92,65.4,68.6,No defect
+102,Gala,162.7,14.34,45.3,70.3,No defect
+103,Gala,142.4,13.14,47.3,72.5,Bruising
+104,Gala,136.8,9.27,44.5,60.9,Russeting
+105,Gala,151.5,15.89,53.7,68.0,No defect
+106,Gala,138.7,13.36,46.0,62.8,Russeting
+107,Gala,192.9,14.34,49.1,62.5,Lenticel breakdown
+108,Gala,105.3,12.85,50.4,61.1,Lenticel breakdown
+109,Gala,161.7,13.46,47.9,73.3,Russeting
+110,Gala,177.5,10.93,44.1,73.8,Rot
+111,Gala,175.3,15.14,34.9,76.1,Stem puncture
+112,Gala,129.5,11.66,52.5,73.7,No defect
+113,Gala,172.5,13.59,43.5,77.8,No defect
+114,Gala,139.5,15.63,52.6,65.7,Stem puncture
+115,Gala,128.4,12.59,45.1,66.7,Russeting
+116,Gala,155.9,7.87,49.5,76.8,Scab
+117,Gala,131.2,12.72,72.1,61.5,No defect
+118,Gala,150.0,13.52,63.1,68.7,Bruising
+119,Gala,175.2,13.26,68.5,69.9,Russeting
+120,Gala,131.6,13.02,39.5,58.0,Scab
+121,Gala,154.6,13.25,53.7,67.2,Russeting
+122,Gala,158.0,9.76,66.4,62.9,Bruising
+123,Gala,140.8,12.42,56.4,76.0,Bruising
+124,Gala,198.8,14.2,54.1,75.2,No defect
+125,Gala,184.2,13.71,48.1,71.8,Rot
+126,Gala,159.8,12.89,53.5,69.1,Bruising
+127,Gala,161.7,13.08,55.9,61.8,Scab
+128,Gala,201.7,12.79,62.8,64.3,Rot
+129,Gala,151.0,10.65,55.2,76.2,Scab
+130,Gala,155.6,15.49,55.7,70.5,Scab
+131,Gala,156.1,11.43,49.7,68.6,Scab
+132,Gala,150.2,14.62,39.6,74.8,No defect
+133,Gala,174.0,12.37,59.6,75.7,Lenticel breakdown
+134,Gala,174.1,13.97,50.2,68.7,No defect
+135,Gala,159.2,14.54,46.1,74.0,Bruising
+136,Gala,191.8,17.27,48.7,73.9,Stem puncture
+137,Gala,172.4,12.24,56.2,60.8,Lenticel breakdown
+138,Gala,129.0,15.93,35.2,72.8,Scab
+139,Gala,169.9,13.01,54.0,68.7,Bruising
+140,Gala,163.1,11.67,53.7,70.5,Scab
+141,Gala,176.5,13.08,45.3,76.0,No defect
+142,Gala,173.8,11.52,47.2,67.8,Lenticel breakdown
+143,Gala,165.4,11.24,56.9,56.8,No defect
+144,Gala,193.8,13.03,44.0,56.0,Scab
+145,Gala,154.7,10.61,58.0,68.0,Scab
+146,Gala,169.7,12.04,62.8,69.0,Russeting
+147,Gala,145.8,13.73,43.7,58.1,Bruising
+148,Gala,141.6,12.17,36.7,67.8,No defect
+149,Gala,114.9,12.04,57.0,67.9,Stem puncture
+150,Gala,153.2,12.85,54.9,68.5,Russeting
+151,Gala,122.8,14.46,54.4,66.6,Russeting
+152,Gala,168.5,11.09,47.1,68.9,Russeting
+153,Gala,150.7,12.13,50.5,72.7,Bruising
+154,Gala,185.0,12.07,43.6,78.5,No defect
+155,Gala,130.0,13.0,58.0,64.3,Stem puncture
+156,Gala,165.4,13.8,57.4,65.5,Stem puncture
+157,Gala,182.2,11.42,63.6,67.7,Bruising
+158,Gala,165.8,16.07,58.8,58.5,Bruising
+159,Gala,184.8,12.53,45.7,74.7,Scab
+160,Gala,164.1,10.51,53.1,71.6,Russeting
+161,Gala,154.8,9.71,48.4,66.5,No defect
+162,Gala,140.9,12.8,54.8,59.2,No defect
+163,Gala,152.6,12.82,60.7,64.9,No defect
+164,Gala,173.8,10.6,56.1,68.9,Russeting
+165,Gala,195.3,15.1,53.4,79.2,Russeting
+166,Gala,171.6,12.73,51.6,58.3,Stem puncture
+167,Gala,163.8,15.52,47.2,70.9,Lenticel breakdown
+168,Gala,164.9,14.7,51.2,73.6,Bruising
+169,Gala,152.8,9.83,46.7,72.8,Stem puncture
+170,Gala,138.8,11.04,50.0,68.2,Bruising
+171,Gala,159.9,11.74,55.0,70.9,No defect
+172,Gala,167.0,13.93,54.2,69.2,Rot
+173,Gala,160.0,12.09,54.9,88.5,Bruising
+174,Gala,142.1,14.67,48.5,58.9,Lenticel breakdown
+175,Gala,167.8,15.51,53.4,63.8,Stem puncture
+176,Gala,158.0,9.75,41.5,55.4,Scab
+177,Gala,160.4,15.37,56.0,76.8,Rot
+178,Gala,149.5,12.67,52.6,68.2,No defect
+179,Gala,162.6,16.19,56.9,73.2,Rot
+180,Gala,156.3,16.33,29.8,82.6,Bruising
+181,Gala,160.4,12.0,60.0,81.4,No defect
+182,Gala,181.2,13.87,45.2,72.7,No defect
+183,Gala,172.5,13.48,54.6,65.1,Bruising
+184,Gala,151.5,14.17,39.0,70.4,Bruising
+185,Gala,126.0,11.51,46.3,67.6,Bruising
+186,Gala,157.4,15.32,56.0,69.0,No defect
+187,Gala,164.2,15.6,57.4,65.6,Scab
+188,Gala,126.3,12.73,48.8,64.3,No defect
+189,Gala,163.2,16.11,64.8,62.5,No defect
+190,Gala,172.7,13.93,55.3,58.9,No defect
+191,Gala,139.1,13.37,42.9,69.4,No defect
+192,Gala,177.1,12.11,55.4,66.4,Rot
+193,Gala,175.7,12.03,47.8,66.3,Russeting
+194,Gala,157.3,13.7,40.7,69.0,Bruising
+195,Gala,155.1,12.48,60.0,66.9,Bruising
+196,Gala,170.7,12.58,63.1,63.3,Bruising
+197,Gala,163.9,11.58,35.3,70.8,Bruising
+198,Gala,156.4,11.36,48.3,82.0,No defect
+199,Gala,133.7,14.26,58.1,65.5,No defect
+200,Gala,170.6,11.04,45.6,68.3,Russeting
+201,Gala,161.9,11.12,55.2,65.8,No defect
+202,Gala,104.9,12.98,46.4,62.5,Russeting
+203,Gala,173.5,12.65,58.0,74.7,Scab
+204,Gala,189.2,11.45,42.1,56.6,Russeting
+205,Gala,177.2,11.83,46.9,81.2,Russeting
+206,Gala,177.3,10.71,58.2,63.4,Stem puncture
+207,Gala,168.7,11.69,53.1,71.1,Scab
+208,Gala,138.8,14.7,58.8,66.4,No defect
+209,Gala,121.8,10.3,46.7,58.9,Bruising
+210,Gala,158.9,14.62,63.4,75.1,No defect
+211,Granny Smith,146.5,9.52,77.2,70.6,Rot
+212,Granny Smith,141.4,14.68,88.3,77.4,Russeting
+213,Granny Smith,175.0,14.77,85.7,72.1,Lenticel breakdown
+214,Granny Smith,155.2,8.92,84.3,63.4,No defect
+215,Granny Smith,157.4,10.45,69.8,71.1,No defect
+216,Granny Smith,195.4,11.6,70.9,80.9,No defect
+217,Granny Smith,175.3,11.89,78.2,67.3,No defect
+218,Granny Smith,170.2,10.17,70.3,71.5,Bruising
+219,Granny Smith,183.4,11.95,65.0,68.7,Bruising
+220,Granny Smith,171.2,12.94,70.2,73.9,No defect
+221,Granny Smith,166.0,14.64,73.8,74.6,Rot
+222,Granny Smith,173.5,13.36,78.2,73.8,Bruising
+223,Granny Smith,163.9,11.12,66.3,71.1,Rot
+224,Granny Smith,186.5,8.61,67.5,72.0,Lenticel breakdown
+225,Granny Smith,174.0,11.41,66.3,75.4,No defect
+226,Granny Smith,181.6,7.86,68.0,68.3,Lenticel breakdown
+227,Granny Smith,167.3,8.18,53.5,68.1,No defect
+228,Granny Smith,169.2,8.02,75.6,78.2,No defect
+229,Granny Smith,178.2,8.28,88.0,78.1,Stem puncture
+230,Granny Smith,189.6,13.02,72.8,76.3,Lenticel breakdown
+231,Granny Smith,158.3,12.49,77.6,69.0,Rot
+232,Granny Smith,162.9,7.39,65.1,81.5,Scab
+233,Granny Smith,187.9,11.1,73.4,69.1,Russeting
+234,Granny Smith,161.7,12.79,76.9,63.5,No defect
+235,Granny Smith,160.3,12.04,42.1,73.9,Bruising
+236,Granny Smith,179.0,10.68,74.8,77.3,No defect
+237,Granny Smith,181.7,9.14,70.3,71.5,No defect
+238,Granny Smith,178.4,9.7,83.4,72.9,Bruising
+239,Granny Smith,172.1,8.7,74.5,74.0,No defect
+240,Granny Smith,173.6,12.2,67.9,61.4,Scab
+241,Granny Smith,195.5,13.33,59.4,70.4,Scab
+242,Granny Smith,150.6,13.11,71.5,71.6,No defect
+243,Granny Smith,149.9,10.34,73.2,74.3,Bruising
+244,Granny Smith,131.2,14.9,78.6,76.7,Stem puncture
+245,Granny Smith,198.9,10.79,63.8,74.0,Scab
+246,Granny Smith,171.7,14.64,63.4,71.6,Stem puncture
+247,Granny Smith,158.9,7.2,71.6,72.5,Russeting
+248,Granny Smith,138.9,11.93,59.0,73.0,Russeting
+249,Granny Smith,189.3,9.37,76.9,73.4,Russeting
+250,Granny Smith,199.5,11.08,74.3,79.2,No defect
+251,Granny Smith,158.9,11.98,69.7,74.1,No defect
+252,Granny Smith,144.5,15.82,62.3,89.4,Russeting
+253,Granny Smith,177.3,10.45,65.0,76.2,Bruising
+254,Granny Smith,185.9,9.36,60.8,74.7,Bruising
+255,Granny Smith,164.6,11.01,84.4,70.0,No defect
+256,Granny Smith,178.7,12.65,79.8,76.6,Scab
+257,Granny Smith,171.1,11.67,65.7,71.5,Russeting
+258,Granny Smith,174.8,11.37,90.3,59.6,Lenticel breakdown
+259,Granny Smith,167.2,9.6,74.0,69.7,Bruising
+260,Granny Smith,177.6,16.25,59.6,76.1,Lenticel breakdown
+261,Granny Smith,148.2,11.15,79.1,74.7,Stem puncture
+262,Granny Smith,187.5,14.97,75.5,64.2,Scab
+263,Granny Smith,171.5,12.55,75.7,74.6,Stem puncture
+264,Granny Smith,158.5,8.76,66.2,79.8,Scab
+265,Granny Smith,194.6,9.96,58.1,71.0,Rot
+266,Granny Smith,140.9,9.83,76.0,68.0,No defect
+267,Granny Smith,149.5,6.63,79.8,80.0,No defect
+268,Granny Smith,190.8,11.48,60.4,69.2,Bruising
+269,Granny Smith,162.8,6.78,70.3,76.1,No defect
+270,Granny Smith,193.0,12.08,79.7,70.0,Bruising
+271,Granny Smith,158.9,10.18,74.6,78.2,No defect
+272,Granny Smith,192.2,13.33,73.0,59.3,Scab
+273,Granny Smith,207.0,10.76,75.2,71.4,Lenticel breakdown
+274,Granny Smith,183.3,13.76,68.3,63.9,Stem puncture
+275,Granny Smith,150.0,12.47,66.8,64.5,No defect
+276,Granny Smith,185.9,12.91,83.5,65.1,Bruising
+277,Granny Smith,147.2,8.16,64.6,65.1,Scab
+278,Granny Smith,206.7,10.33,77.6,64.7,Russeting
+279,Granny Smith,177.0,10.44,80.9,72.4,Bruising
+280,Granny Smith,183.4,10.53,68.8,72.2,Bruising
+281,Granny Smith,197.0,10.43,63.4,78.8,Bruising
+282,Granny Smith,213.4,10.52,72.0,67.3,Scab
+283,Granny Smith,162.8,11.13,65.2,70.3,Scab
+284,Granny Smith,166.2,13.24,78.7,78.3,Lenticel breakdown
+285,Granny Smith,218.8,12.99,62.6,76.8,No defect
+286,Granny Smith,189.9,10.44,72.7,75.5,Russeting
+287,Granny Smith,151.2,10.54,77.1,72.9,No defect
+288,Granny Smith,178.1,10.68,59.6,77.7,No defect
+289,Granny Smith,175.8,12.69,76.3,80.0,Lenticel breakdown
+290,Granny Smith,166.5,9.55,76.3,84.2,Russeting
+291,Granny Smith,192.3,10.01,73.2,78.0,Bruising
+292,Granny Smith,170.2,4.73,74.9,57.0,No defect
+293,Granny Smith,175.4,9.85,72.6,67.2,Lenticel breakdown
+294,Granny Smith,143.1,12.41,93.3,71.3,No defect
+295,Granny Smith,179.7,8.45,71.6,71.9,Stem puncture
+296,Granny Smith,184.6,14.15,72.2,69.0,No defect
+297,Granny Smith,170.9,6.82,79.8,73.1,No defect
+298,Granny Smith,161.1,9.68,71.4,73.7,No defect
+299,Granny Smith,190.1,13.04,77.0,81.2,Rot
+300,Granny Smith,157.7,10.44,73.8,69.9,No defect
+301,Granny Smith,157.4,9.39,77.6,70.9,Russeting
+302,Granny Smith,174.6,3.31,173.5,77.4,No defect
+303,Granny Smith,187.4,8.95,71.2,71.7,No defect
+304,Granny Smith,235.0,3.83,219.1,78.3,No defect
+305,Granny Smith,217.2,6.69,124.0,80.2,No defect
+306,Granny Smith,240.0,5.46,83.3,59.8,No defect
+307,Granny Smith,256.0,6.0,86.2,72.8,No defect
+308,Granny Smith,272.4,8.13,111.4,71.7,Lenticel breakdown
+309,Granny Smith,241.4,6.91,112.9,68.5,Russeting
+310,Granny Smith,225.6,4.85,105.1,76.2,Bruising
+311,Granny Smith,238.0,8.36,163.1,76.3,Rot
+312,Granny Smith,190.8,5.85,86.1,77.0,No defect
+313,Granny Smith,235.0,5.78,142.7,67.2,Bruising
+314,Granny Smith,235.4,4.14,172.0,71.8,Bruising
+315,Granny Smith,214.7,6.65,138.9,76.4,Russeting
+316,Granny Smith,257.3,5.42,122.4,71.4,Russeting
+317,Granny Smith,209.5,7.38,51.9,67.6,Bruising
+318,Granny Smith,212.3,6.08,84.9,77.3,Stem puncture
+319,Granny Smith,233.7,6.89,103.1,75.1,Russeting
+320,Granny Smith,223.1,4.66,134.9,80.1,Lenticel breakdown
